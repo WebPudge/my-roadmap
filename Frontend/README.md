@@ -1,15 +1,27 @@
 # Frontend
 ## 目录
-* Internet  
-  * [How does the internet work?](https://roadmap.sh/guides/what-is-internet)
-  * What is HTTP?
-    * [What is HTTP?](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE) 
-    * 《图解http》
-  * Browsers and how they work?  
-    * [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
-    * [How browers work?](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-  * DNS and how it works? 
-    * [DNS in One Picture?](https://roadmap.sh/guides/dns-in-one-picture)
-    * [How DNS works?](https://howdns.works/ep1/)  
-  * [What is Domain Name?](https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D)
-  * [What is hosting?](https://www.youtube.com/watch?v=0hGK7qiQ6WA&t=71s)
+- Internet  
+  - [How does the internet work?](https://roadmap.sh/guides/what-is-internet)
+  - What is HTTP?
+    - [What is HTTP?](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE) 
+    - 《图解http》
+  - Browsers and how they work?  
+    - [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+    - [How browers work?](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+  - DNS and how it works? 
+    - [DNS in One Picture?](https://roadmap.sh/guides/dns-in-one-picture)
+    - [How DNS works?](https://howdns.works/ep1/)  
+  - [What is Domain Name?](https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D)
+  - [What is hosting?](https://www.youtube.com/watch?v=0hGK7qiQ6WA&t=71s)
+- HTML  
+  - Lean the basics  
+    - [MDN HTML](./HTML/MDN.md)
+    - [元素参考](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)  
+    - [属性参考](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Attributes)
+  - Forms and Validations
+    - [表单](./HTML/MDN.md#html-%e8%a1%a8%e5%8d%95) 
+    - [效验](./HTML/MDN.md#%e8%a1%a8%e5%8d%95%e9%aa%8c%e8%af%81)
+  - Conventions And Best Practices
+    - [10 best practices in html](https://blog.tbhcreative.com/2015/08/10-best-practices-in-html.html)
+    - [HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
+  - [SEO Basics](https://www.greengeeks.com/blog/2019/01/03/html-tags-for-seo/)
