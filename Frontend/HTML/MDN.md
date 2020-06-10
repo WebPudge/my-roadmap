@@ -2,7 +2,6 @@
 
 - [MDN](#mdn)
   - [介绍](#%e4%bb%8b%e7%bb%8d)
-  - [目录](#%e7%9b%ae%e5%bd%95)
   - [知识点汇总](#%e7%9f%a5%e8%af%86%e7%82%b9%e6%b1%87%e6%80%bb)
     - [HTML 介绍](#html-%e4%bb%8b%e7%bb%8d)
       - [HTML 入门](#html-%e5%85%a5%e9%97%a8)
@@ -93,9 +92,7 @@
 
 ## 介绍
 
-[MDN](https://developer.mozilla.org/zh-CN/docs/Learn/HTML) HTML 网站基础学习重点知识点总结
-
-## 目录
+[MDN](https://developer.mozilla.org/zh-CN/docs/Learn/HTML) HTML 网站基础学习知识点总结
 
 ## 知识点汇总
 

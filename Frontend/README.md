@@ -25,3 +25,8 @@
     - [10 best practices in html](https://blog.tbhcreative.com/2015/08/10-best-practices-in-html.html)
     - [HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
   - [SEO Basics](https://www.greengeeks.com/blog/2019/01/03/html-tags-for-seo/)
+- CSS
+  - Lean the basics  
+    - [MDN CSS](./CSS/MDN.md)
+    - [Making Layouts]
+      - 
