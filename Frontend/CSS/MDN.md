@@ -1665,7 +1665,12 @@ clear 可以取三个值：
 <div class="clearfix"></div>
 .clearfix { clear: both; }
 <!-- 伪元素清除浮动，直接添加类 -->
-.clearfix:after { content: ''; height: 0; display: block; clear: both; }
+.clearfix:after { 
+   content: '.'; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both; }
 ```
 
 #### 定位

@@ -28,5 +28,28 @@
 - CSS
   - Lean the basics  
     - [MDN CSS](./CSS/MDN.md)
-    - [Making Layouts]
-      - 
+    - [CSS 世界 张鑫旭](./CSS/CSS_WORD.md)
+  - Making Layouts
+    - Floats
+      - [MDN 浮动](./CSS/MDN.md#浮动)
+      - [ALL About Floats](https://css-tricks.com/all-about-floats/)
+    - Positioning
+      - [MDN 定位](./CSS/MDN.md#定位)
+      - [position](https://css-tricks.com/almanac/properties/p/position/)
+    - Display
+      - [MDN display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+      - [display](https://css-tricks.com/almanac/properties/d/display/)
+    - Box Model
+      - [盒模型](./CSS/MDN.md#盒模型)
+      - [The CSS Box Model](https://css-tricks.com/the-css-box-model/)
+    - Flex Box
+      - [阮一峰flex](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+      - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+      - [flex game](https://flexboxfroggy.com/)
+    - CSS Grid
+      - [阮一峰grid](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+      - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+      - [grid game](https://cssgridgarden.com/)
+  - Responsive design and Media queries
+      - [w3schools 响应设计](https://www.w3schools.com/css/css_rwd_intro.asp)
+      - [MDN 媒体查询](./CSS/MDN.md#媒体查询)
